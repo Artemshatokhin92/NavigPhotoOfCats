@@ -4,12 +4,12 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".presentation.fragments.FavoriteImagesCatsFragment">
+    tools:context=".presentation.fragments.VoteImagesCatsFragment">
 
-    <androidx.constraintlayout.widget.ConstraintLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+    <androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:app="http://schemas.android.com/apk/res-auto"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        tools:context=".presentation.fragments.VoteImagesCatsFragment">
+        android:layout_height="match_parent">
 
         <com.facebook.drawee.view.SimpleDraweeView
             android:id="@+id/ivImageCat"

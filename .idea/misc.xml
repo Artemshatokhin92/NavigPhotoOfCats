@@ -6,6 +6,14 @@
         <entry key="..\:/Users/artem/AndroidStudioProjects/DBRoomPhotoOfCats/app/src/main/res/drawable/ic_loading.xml" value="0.219" />
         <entry key="..\:/Users/artem/AndroidStudioProjects/DBRoomPhotoOfCats/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/artem/AndroidStudioProjects/DBRoomPhotoOfCats/app/src/main/res/layout/fragment_favorite_images_cats.xml" value="0.25" />
+        <entry key="..\:/Users/artem/AndroidStudioProjects/NavigPhotoOfCats/app/src/main/res/drawable/ic_btn_nav_favorite.xml" value="0.1575" />
+        <entry key="..\:/Users/artem/AndroidStudioProjects/NavigPhotoOfCats/app/src/main/res/drawable/ic_btn_nav_vote.xml" value="0.1575" />
+        <entry key="..\:/Users/artem/AndroidStudioProjects/NavigPhotoOfCats/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/artem/AndroidStudioProjects/NavigPhotoOfCats/app/src/main/res/layout/fragment_about_app.xml" value="0.25" />
+        <entry key="..\:/Users/artem/AndroidStudioProjects/NavigPhotoOfCats/app/src/main/res/layout/fragment_favorite_images_cats.xml" value="0.25" />
+        <entry key="..\:/Users/artem/AndroidStudioProjects/NavigPhotoOfCats/app/src/main/res/layout/fragment_vote_images_cats.xml" value="0.25" />
+        <entry key="..\:/Users/artem/AndroidStudioProjects/NavigPhotoOfCats/app/src/main/res/layout/view_holder_favorite_cat.xml" value="0.25" />
+        <entry key="..\:/Users/artem/AndroidStudioProjects/NavigPhotoOfCats/app/src/main/res/menu/buttons_navigation.xml" value="0.24895833333333334" />
       </map>
     </option>
   </component>

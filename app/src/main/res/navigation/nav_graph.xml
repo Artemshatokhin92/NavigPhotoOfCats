@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/voteImagesCatsFragment">
+
+    <fragment
+        android:id="@+id/voteImagesCatsFragment"
+        android:name="com.shatokhin.navigphotoofcats.presentation.fragments.VoteImagesCatsFragment"
+        android:label="fragment_vote_images_cats"
+        tools:layout="@layout/fragment_vote_images_cats" >
+    </fragment>
+
+    <fragment
+        android:id="@+id/favoriteImagesCatsFragment"
+        android:name="com.shatokhin.navigphotoofcats.presentation.fragments.FavoriteImagesCatsFragment"
+        android:label="fragment_favorite_images_cats"
+        tools:layout="@layout/fragment_favorite_images_cats" />
+    <fragment
+        android:id="@+id/aboutAppFragment"
+        android:name="com.shatokhin.navigphotoofcats.presentation.fragments.AboutAppFragment"
+        android:label="fragment_about_app"
+        tools:layout="@layout/fragment_about_app" />
+
+    <action
+        android:id="@+id/action_mainActivity_to_voteImagesCatsFragment"
+        app:destination="@id/voteImagesCatsFragment" />
+    <action
+        android:id="@+id/action_mainActivity_to_favoriteImagesCatsFragment"
+        app:destination="@id/favoriteImagesCatsFragment" />
+    <action
+        android:id="@+id/action_mainActivity_to_aboutAppFragment"
+        app:destination="@id/aboutAppFragment" />
+
+</navigation>

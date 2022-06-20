@@ -1,8 +1,14 @@
 <resources>
-    <string name="app_name">PhotosOfCats</string>
+    <string name="app_name">NavigPhotosOfCats</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="vote_down">Vote Down</string>
     <string name="vote_up">Vote Up</string>
     <string name="delete">Delete</string>
+    <string name="vote">Vote</string>
+    <string name="favorite">Favorite</string>
+    <string name="about">About</string>
+    <string name="https_github_com_artemshatokhin92">https://github.com/Artemshatokhin92/NavigPhotoOfCats</string>
+    <string name="artem_shatokhin">Artem Shatokhin</string>
+    <string name="data_creatind_app">20.06.2022</string>
 </resources>

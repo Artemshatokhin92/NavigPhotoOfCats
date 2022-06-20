@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/voteImagesCatsFragment"
+        android:title="@string/vote"
+        android:icon="@drawable/ic_btn_nav_vote" />
+    <item android:id="@+id/favoriteImagesCatsFragment"
+        android:title="@string/favorite"
+        android:icon="@drawable/ic_btn_nav_favorite" />
+    <item android:id="@+id/aboutAppFragment"
+        android:title="@string/about"
+        android:icon="@drawable/ic_btn_nav_about" />
+</menu>
